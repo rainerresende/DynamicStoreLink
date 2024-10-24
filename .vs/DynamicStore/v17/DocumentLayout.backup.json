@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rainer.resende\\source\\repos\\DynamicStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F61ED41-F6E7-4832-AE1C-3F942B94FDC4}|DynamicStore\\DynamicStore.csproj|c:\\users\\rainer.resende\\source\\repos\\dynamicstore\\dynamicstore\\controllers\\dynamicstorelinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F61ED41-F6E7-4832-AE1C-3F942B94FDC4}|DynamicStore\\DynamicStore.csproj|solutionrelative:dynamicstore\\controllers\\dynamicstorelinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F61ED41-F6E7-4832-AE1C-3F942B94FDC4}|DynamicStore\\DynamicStore.csproj|c:\\users\\rainer.resende\\source\\repos\\dynamicstore\\dynamicstore\\facades\\dynamiclinkfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F61ED41-F6E7-4832-AE1C-3F942B94FDC4}|DynamicStore\\DynamicStore.csproj|solutionrelative:dynamicstore\\facades\\dynamiclinkfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB8C547-DAA3-4621-859D-74F01D818FAC}|DynamicStore.Tests\\DynamicStore.Tests.csproj|c:\\users\\rainer.resende\\source\\repos\\dynamicstore\\dynamicstore.tests\\dynamicstorelinkfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB8C547-DAA3-4621-859D-74F01D818FAC}|DynamicStore.Tests\\DynamicStore.Tests.csproj|solutionrelative:dynamicstore.tests\\dynamicstorelinkfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F61ED41-F6E7-4832-AE1C-3F942B94FDC4}|DynamicStore\\DynamicStore.csproj|c:\\users\\rainer.resende\\source\\repos\\dynamicstore\\dynamicstore\\facades\\interfaces\\idynamiclinkfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F61ED41-F6E7-4832-AE1C-3F942B94FDC4}|DynamicStore\\DynamicStore.csproj|solutionrelative:dynamicstore\\facades\\interfaces\\idynamiclinkfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F61ED41-F6E7-4832-AE1C-3F942B94FDC4}|DynamicStore\\DynamicStore.csproj|c:\\users\\rainer.resende\\source\\repos\\dynamicstore\\dynamicstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F61ED41-F6E7-4832-AE1C-3F942B94FDC4}|DynamicStore\\DynamicStore.csproj|solutionrelative:dynamicstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F61ED41-F6E7-4832-AE1C-3F942B94FDC4}|DynamicStore\\DynamicStore.csproj|c:\\users\\rainer.resende\\source\\repos\\dynamicstore\\dynamicstore\\dynamicstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F61ED41-F6E7-4832-AE1C-3F942B94FDC4}|DynamicStore\\DynamicStore.csproj|solutionrelative:dynamicstore\\dynamicstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DynamicStoreLinkFacadeTests.cs",
+              "DocumentMoniker": "C:\\Users\\rainer.resende\\source\\repos\\DynamicStore\\DynamicStore.Tests\\DynamicStoreLinkFacadeTests.cs",
+              "RelativeDocumentMoniker": "DynamicStore.Tests\\DynamicStoreLinkFacadeTests.cs",
+              "ToolTip": "C:\\Users\\rainer.resende\\source\\repos\\DynamicStore\\DynamicStore.Tests\\DynamicStoreLinkFacadeTests.cs",
+              "RelativeToolTip": "DynamicStore.Tests\\DynamicStoreLinkFacadeTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:13:09.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rainer.resende\\source\\repos\\DynamicStore\\DynamicStore\\Program.cs",
+              "RelativeDocumentMoniker": "DynamicStore\\Program.cs",
+              "ToolTip": "C:\\Users\\rainer.resende\\source\\repos\\DynamicStore\\DynamicStore\\Program.cs",
+              "RelativeToolTip": "DynamicStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:52:59.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DynamicStore",
+              "DocumentMoniker": "C:\\Users\\rainer.resende\\source\\repos\\DynamicStore\\DynamicStore\\DynamicStore.csproj",
+              "RelativeDocumentMoniker": "DynamicStore\\DynamicStore.csproj",
+              "ToolTip": "C:\\Users\\rainer.resende\\source\\repos\\DynamicStore\\DynamicStore\\DynamicStore.csproj",
+              "RelativeToolTip": "DynamicStore\\DynamicStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T14:45:30.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDynamicLinkFacade.cs",
+              "DocumentMoniker": "C:\\Users\\rainer.resende\\source\\repos\\DynamicStore\\DynamicStore\\Facades\\Interfaces\\IDynamicLinkFacade.cs",
+              "RelativeDocumentMoniker": "DynamicStore\\Facades\\Interfaces\\IDynamicLinkFacade.cs",
+              "ToolTip": "C:\\Users\\rainer.resende\\source\\repos\\DynamicStore\\DynamicStore\\Facades\\Interfaces\\IDynamicLinkFacade.cs",
+              "RelativeToolTip": "DynamicStore\\Facades\\Interfaces\\IDynamicLinkFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:36:05.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamicLinkFacade.cs",
+              "DocumentMoniker": "C:\\Users\\rainer.resende\\source\\repos\\DynamicStore\\DynamicStore\\Facades\\DynamicLinkFacade.cs",
+              "RelativeDocumentMoniker": "DynamicStore\\Facades\\DynamicLinkFacade.cs",
+              "ToolTip": "C:\\Users\\rainer.resende\\source\\repos\\DynamicStore\\DynamicStore\\Facades\\DynamicLinkFacade.cs",
+              "RelativeToolTip": "DynamicStore\\Facades\\DynamicLinkFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:35:40.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DynamicStoreLinkController.cs",
+              "DocumentMoniker": "C:\\Users\\rainer.resende\\source\\repos\\DynamicStore\\DynamicStore\\Controllers\\DynamicStoreLinkController.cs",
+              "RelativeDocumentMoniker": "DynamicStore\\Controllers\\DynamicStoreLinkController.cs",
+              "ToolTip": "C:\\Users\\rainer.resende\\source\\repos\\DynamicStore\\DynamicStore\\Controllers\\DynamicStoreLinkController.cs",
+              "RelativeToolTip": "DynamicStore\\Controllers\\DynamicStoreLinkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:18:22.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
